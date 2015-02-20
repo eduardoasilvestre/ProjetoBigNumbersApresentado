@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1379622350 source:d:\doutorado ic uff\eclipseworkspace\codeblocks\projetobignumbersapresentado\lib.c
+	"lib.h"
+
+1379622358 d:\doutorado ic uff\eclipseworkspace\codeblocks\projetobignumbersapresentado\lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1379622341 source:d:\doutorado ic uff\eclipseworkspace\codeblocks\projetobignumbersapresentado\menu.c
+	"lib.h"
+	<stdio.h>
+	<stdlib.h>
+
